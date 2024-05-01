@@ -12,7 +12,7 @@ With api calling from Coin Gecko to get market price in 24 Hours and global mark
 - Core Data and File Manager
 - Search coins by name or symbols name
 
-## [Coin Gecko Api][https://www.coingecko.com/id/api]
+## [Coin Gecko Api](https://www.coingecko.com/id/api)
 ## Feature This Project Have
 - ✅ Searching coins
 - ✅ Filtering
@@ -21,11 +21,8 @@ With api calling from Coin Gecko to get market price in 24 Hours and global mark
 - ✅ Portfolio CRUD actions
 
 ## Screenshots
+## Light Theme
+![alt text](https://github.com/PFebrianoooo/Crypto-Tracker/blob/main/CryptoCoins/Assets.xcassets/Images/Covers/Crypto-Tracker-Light.imageset/Crypto%20Tracker-Light.jpg?raw=true)
+
 ## Dark Theme
-|<img src= "Screenshoots/darkTheme/HomeView-DarkTheme.png" width= 200\>| |<img src= "Screenshoots/darkTheme/SearchActions-DarkTheme.png" width= 200\>| |<img src= "Screenshoots/darkTheme/PortfolioView-DarkTheme.png" width= 200\>| |<img src= "Screenshoots/darkTheme/CoinDetails-DarkTheme.png" width= 200\>| 
-|:----:|:----:|:----:|:----:|
-
-|<img src= "Screenshoots/lightTheme/HomeView-LightTheme.png" width= 200\>| |<img src= "Screenshoots/lightTheme/SearchActions-LightTheme.png" width= 200\>| |<img src= "Screenshoots/lightTheme/PortfolioView-LightTheme.png" width= 200\>| |<img src= "Screenshoots/lightTheme/CoinDetails-LightTheme.png" width= 200\>| 
-|:----:|:----:|:----:|:----:|
-
-  
+![alt text](https://github.com/PFebrianoooo/Crypto-Tracker/blob/main/CryptoCoins/Assets.xcassets/Images/Covers/Crypto-Tracker-Dark.imageset/Crypto-Tracker-Dark.jpg?raw=true)
